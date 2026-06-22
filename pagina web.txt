@@ -1,0 +1,58 @@
+<html>
+<meta charset="utf-8">
+
+          <head>
+     <h1>
+<p style="color: green;">Mi pagina web</p>
+
+</h1>
+          </head>
+
+          <body>
+                  <h2>
+                      <p style="color: blue;">Datos personales</p>
+                  </h2>
+                  <h3>Nombre Completo: Dionicio Mendoza Adrian Denis</h3>
+                  <h3>Correo personal: adionicio2007@gmail.com</h3>
+                  <h3>Correo institucional: adrian.dioniciom@unmsm.edu.pe</h3>
+                  <h3>Linkedin:<a href="https://www.linkedin.com/in/adrian-denis-dionicio-mendoza-b51615406">Perfil</a></h3>
+                  <h3>Github:<a href="https://github.com/adriandm4">Perfil</a></h3>
+<h2>
+                      <p style="color: blue;">Informacion academica</p>
+                  </h2>
+                  <h3>Universidad: Universidad Nacional Mayor de San Marcos (<a href="https://www.unmsm.edu.pe">UNMSM</a>)</h3>
+                  <h3>Facultad: Facultad de Ingenieria de Sistemas e Informatica (<a href="https://sistemas.unmsm.edu.pe/site/index.php">FISI</a>)</h3>
+                  <h3>Escuela profesional: Ciencia de la computacion especializada en IA (<a href="https://sistemas.unmsm.edu.pe/site/pregrado/ep-inteligencia-artificial-new">EPIA</a>)</h3>
+                  <h3>Ciclo: Ciclo I</h3>
+                  <h3>Cursos:</h3>
+<p>
+Introduccion a la Ciencia de la Computacion: <a href="https://www.linkedin.com/in/ecuadrosv">Ernesto Cuadro Vargas</a><br>
+
+Algebra y Geometria Analitica: Hellen Terreros Navarro<br>
+
+Redaccion y Tecnicas de Comunicacion Efectiva: <a href="https://www.linkedin.com/in/ana-eylin-coronel-tello-8934a4140">Ana Eylin Coronel Tello</a><br>
+
+Calculo I: <a href="https://www.linkedin.com/in/marcos-maravi">Edwin Marcos Maravi Percca </a><br>
+
+Medio Ambiente y Desarrollo Sostenible: Petronila Merida Fanola Merino<br>
+
+Desarrollo Personal y Liderazgo: Luz Bazualdo Porras<br>
+
+Metodos de Estudio Universitario: <a href="https://www.linkedin.com/in/miryam-cosme-felix-22a52140">Miryam Cosme Félix</a><br>
+
+            <h2>
+                  <p style="color: blue;">Red academica</p>
+            </h2>
+  <p>
+<a href="https://www.linkedin.com/in/alexandra-sullca-tintaya-55728833b/">Alexandra Sullca Tintaya</a><br>
+<a href="https://www.linkedin.com/in/jose-alberto-ramos-condori-053146406/">Jose Alberto Ramos Condori</a><br>
+<a href="https://www.linkedin.com/in/juan-salvador-montoya-tello-05a2aa406/">Juan Salvador Montoya Tello</a><br>
+<a href="https://www.linkedin.com/in/arnoddepazh/">Arnold Amiel De Paz Huerta</a><br>
+
+
+
+
+
+</body>
+
+</html>
